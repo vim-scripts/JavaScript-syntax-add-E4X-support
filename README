@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2802
+
+Supplementary syntax file for JavaScript.
+
+Adds support for properly highlighting E4X (ECMAscript4XML) blocks, which is a CDATA chunk of raw text inside ECMAscript/JavaScript code.  See http://en.wikipedia.org/wiki/ECMAScript_for_XML or http://userscripts.org/guides/4
